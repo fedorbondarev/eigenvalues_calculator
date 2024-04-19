@@ -4,11 +4,11 @@ This C program calculates the eigenvalues of a matrix using the Double Step QR A
 
 ## Overview
 
-The Double Step QR Algorithm is an iterative method used to compute the eigenvalues of a matrix. It iteratively transforms the matrix into a quasi-triangular form, converging towards the eigenvalues. This implementation utilizes the Double Step QR Algorithm to efficiently calculate the eigenvalues of a given matrix.
+The Double Step QR Algorithm is an iterative method used to compute the eigenvalues of a matrix. It iteratively transforms the matrix into a quasi-triangular form.
 
 ## Usage
 
-Input and output files are passed as first and second arguments.
+The paths to input and output files are passed as first and second arguments.
 
 ## Matrix Format
 
